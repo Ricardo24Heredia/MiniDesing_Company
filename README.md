@@ -2,7 +2,6 @@
   <img height="100px" src="https://github.com/Doisaac/miniDesign-company/blob/main/images/logo.png">
   <h2>Mini Design <br> 🏠🎨❤️ </h2>
   
-  
 > A construction and interior desing company
 
 ![Static Badge](https://img.shields.io/badge/HTML-b5ead9)
